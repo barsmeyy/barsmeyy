@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 💻 Writing code in Python, Luau (Roblox Studio), JavaScript, GDScript
 - 🌱 Currently learning ML and AI (LLMs, fine-tuning and other), сybersecurity, programming languages mentioned above
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Programming:**
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=luau&logoColor=white)
